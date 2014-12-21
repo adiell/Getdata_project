@@ -1,0 +1,8 @@
+Getting and Cleaning Data - Course Project
+========================================================
+
+The run_analysis.R contains the solution for the course project.  
+To run it you have to have the files extracted at the directory you run the script from.  
+The output of the script is called coursera_get_data_project_result.txt
+It contained the mean for all the variables whose name includes mean() or std() group by subject and activity.
+
